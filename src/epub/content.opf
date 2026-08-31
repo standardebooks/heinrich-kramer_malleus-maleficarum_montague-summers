@@ -55,7 +55,6 @@
 		<dc:source>https://web.archive.org/web/20230521123827/http://www.malleusmaleficarum.org/table-of-contents/</dc:source>
 		<!-- Page scans -->
 		<dc:source>https://catalog.hathitrust.org/Record/000584799</dc:source>
-		<meta property="se:production-notes">The Sacred Texts transcription often had incomplete chapters, and no footnotes. The archived Malleus site was more complete with footnotes, filling in what was missing.</meta>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
 		<link href="https://en.wikipedia.org/wiki/Malleus_Maleficarum" rel="schema:sameAs"/>
