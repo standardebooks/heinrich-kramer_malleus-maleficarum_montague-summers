@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-GB">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/heinrich-kramer/malleus-maleficarum/montague-summers</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-08-31T21:09:56Z</dc:date>
+		<meta property="dcterms:modified">2026-08-31T21:09:56Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -42,11 +42,12 @@
 		<meta property="term" refines="#subject-3">sh85036663</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<meta property="schema:abstract">Heinrich Kramer lays out the reason for the existence of witches, and instructs how they should be detected, tried, and condemned.</meta>
+		<meta property="schema:abstract">A medieval friar lays out the reason for the existence of witches, and instructs how they should be detected, tried, and condemned.</meta>
 		<dc:description>
-			&lt;p&gt;&lt;i&gt;Malleus Maleficarum&lt;/i&gt;, often translated as &lt;i&gt;The Hammer of Witches&lt;/i&gt;, is a treatise on witchcraft by &lt;a href="https://standardebooks.org/ebooks/heinrich-kramer"&gt;Heinrich Kramer&lt;/a&gt; and was published in 1486. At that time, witchcraft was not widely believed to be real, and prosecutions were rare. Many churchmen considered it to be a fairly harmless superstition and any actual punishment was light. Kramer responded with this manual on witch hunting. The first part of this work outlines why witchcraft is a real and persistent danger, citing philosphers and church fathers, from Aristotle to St. Augustine to St. Thomas Aquinas. The second part deals with the methods and effects of witchcraft, and how to counter those effects. The third part gives procedures for the accusation and trial of witches, how torture may be used to exact confessions, and finally how to pronounce and execute sentence against the guilty. The text varies between the finer points of theology and canon law, and sensational descriptions of sexual liaisons with devils.&lt;/p&gt;
-			&lt;p&gt;Kramer’s reasoning is extensively based on church canon law and Catholic theology, but his views were not shared by much of the church, and even faced opposition. He did however secure a papal bull from Innocent VIII which approved of his work. Kramer includes a “letter of approbation” from university faculty who supposedly endorsed his work, though this is thought to be forged. While Kramer was an inquisitor and considered witchcraft to be a dangerous heresy, the Inquisition did not use &lt;i&gt;Malleus&lt;/i&gt; as a tool for prosecution. It was mostly left to secular courts, and in the 16th and 17th centuries the belief in witchcraft became more widespread in Europe, resulting in the execution of accused witches, often by burning at the stake. The distribution of &lt;i&gt;Malleus&lt;/i&gt; was a factor that contributed a great increase in witch hunting activity, which finally died down by the end of the 18th century.&lt;/p&gt;
-			&lt;p&gt;This translation, published in 1928, has a lengthy introduction by Montague Summers, who seems sympathetic to the text, even at such a modern date. He added copious footnotes that give some context to the ancient and medieval references. Included is the papal bull, and a bibliography of this book’s publishing history.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Malleus Maleficarum&lt;/i&gt;, often translated as &lt;i&gt;The Hammer of Witches&lt;/i&gt;, is a treatise on witchcraft by &lt;a href="https://standardebooks.org/ebooks/heinrich-kramer"&gt;Heinrich Kramer&lt;/a&gt; published in 1486. At that time, witchcraft was not widely believed to be real, and prosecutions were rare. Many churchmen considered it to be a fairly harmless superstition and any actual punishment was light. Kramer felt the danger from witches must be taken more seriously, and so he responded with this manual on witch hunting.&lt;/p&gt;
+			&lt;p&gt;The first part outlines why witchcraft is a real and persistent danger, citing philosophers and church fathers from Aristotle to St. Augustine to St. Thomas Aquinas. The second part deals with the methods and effects of witchcraft, and how to counter those effects. The third part gives procedures for the accusation and trial of witches, how torture may be used to exact confessions, and finally how to pronounce and execute sentences against the guilty. The text varies between the finer points of theology and canon law, and sensational descriptions of sexual liaisons with devils.&lt;/p&gt;
+			&lt;p&gt;Kramer’s reasoning is extensively based on church canon law and Catholic theology, but his views were not shared by much of the church, and he even faced some opposition. He did, however, secure a papal bull from Innocent VIII approving of his work. Kramer also includes a “letter of approbation” from university faculty who supposedly endorsed his work, though this is thought to be forged.&lt;/p&gt;
+			&lt;p&gt;This translation, published in 1928, includes a lengthy introduction by Montague Summers, who seems sympathetic to the text. He added copious footnotes that give some context to the ancient and medieval references. Also included is the papal bull, and a bibliography of this book’s publishing history.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- Sacred Texts transcription -->
@@ -55,8 +56,8 @@
 		<dc:source>https://web.archive.org/web/20230521123827/http://www.malleusmaleficarum.org/table-of-contents/</dc:source>
 		<!-- Page scans -->
 		<dc:source>https://catalog.hathitrust.org/Record/000584799</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">230618</meta>
+		<meta property="schema:educationalLevel">49.18</meta>
 		<link href="https://en.wikipedia.org/wiki/Malleus_Maleficarum" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
@@ -97,6 +98,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<link href="https://weijiarhymeswith.asia/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
