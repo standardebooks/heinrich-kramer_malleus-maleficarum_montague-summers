@@ -118,24 +118,18 @@ td[epub|type~="z3998:persona"]{
 }
 /* end drama */
 
-/* footer */
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
-/* end footer */
 
-/* signature */
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
-/* end signature */
 
-/* unsorted list */
 ul{
 	list-style-type: none;
 }
-/* end unsorted list */
 
 /* papal bull sender */
 [epub|type~="z3998:sender"]{
