@@ -57,7 +57,7 @@
 		<!-- Page scans -->
 		<dc:source>https://catalog.hathitrust.org/Record/000584799</dc:source>
 		<meta property="schema:wordCount">230618</meta>
-		<meta property="schema:educationalLevel">49.18</meta>
+		<meta property="schema:educationalLevel">49.28</meta>
 		<link href="https://en.wikipedia.org/wiki/Malleus_Maleficarum" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
